@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.form{
+    background-color: rgb(66, 5, 59);
+    margin-top: 15%;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 25px;
+}
+.head{
+    color: white;
+}
+#btn{
+    background-color: blue;
+}
+nav{
+    background-color:rgb(66, 5, 59); 
+    
+}
+.li1,.li2{
+    
+    text-decoration: none;
+    color:white;
+}
+.li1{
+    margin-left: 35%;
+    padding-right: 50px;
+}
